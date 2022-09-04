@@ -1,6 +1,7 @@
 ## Terraform code to practice creating modules for AWS resources
 
 ## Usage
+Sample usage:
 ~~~
 module "my_ec2_instance" {
   source              = "github.com/Alig1493/terraform-modules-practice"
